@@ -12,3 +12,4 @@ s = "hello"
 print(count_vowels(s))
 s = "world"
 print(count_vowels(s))
+'''tc o(n) where n is length of input string, sc o(1) for count variable'''

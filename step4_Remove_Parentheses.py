@@ -26,3 +26,4 @@ s = "((()))"
 print(remove_parentheses(s))
 s = "(()())"
 print(remove_parentheses(s))
+'''tc o(n) where n is length of input string, sc o(n) for result string in worst case (all parentheses are nested)'''

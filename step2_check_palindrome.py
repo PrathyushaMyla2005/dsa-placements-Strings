@@ -22,3 +22,4 @@ s = "madam"
 print(is_palindrome(s))
 s = "hello"
 print(is_palindrome(s))
+'''tc o(n) where n is length of input string, sc o(1) for left and right pointers'''

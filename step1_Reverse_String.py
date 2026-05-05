@@ -11,3 +11,4 @@ def reverse(s):
     return result
 s = "hello"
 print(reverse(s))
+'''tc o(n) where n is length of input string, sc o(n) for result string'''
